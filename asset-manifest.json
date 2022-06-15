@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/progress/static/css/main.f97c94a7.chunk.css",
+    "main.js": "/progress/static/js/main.0a23758e.chunk.js",
+    "main.js.map": "/progress/static/js/main.0a23758e.chunk.js.map",
+    "runtime-main.js": "/progress/static/js/runtime-main.0c45aa97.js",
+    "runtime-main.js.map": "/progress/static/js/runtime-main.0c45aa97.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/progress/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.f7c14176.chunk.js": "/progress/static/js/2.f7c14176.chunk.js",
+    "static/js/2.f7c14176.chunk.js.map": "/progress/static/js/2.f7c14176.chunk.js.map",
+    "static/js/3.c6cc0941.chunk.js": "/progress/static/js/3.c6cc0941.chunk.js",
+    "static/js/3.c6cc0941.chunk.js.map": "/progress/static/js/3.c6cc0941.chunk.js.map",
+    "index.html": "/progress/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/progress/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.f97c94a7.chunk.css.map": "/progress/static/css/main.f97c94a7.chunk.css.map",
+    "static/js/2.f7c14176.chunk.js.LICENSE.txt": "/progress/static/js/2.f7c14176.chunk.js.LICENSE.txt",
+    "static/media/AllButtons.81af7e7b.jpg": "/progress/static/media/AllButtons.81af7e7b.jpg",
+    "static/media/AllScreens.4962698e.jpg": "/progress/static/media/AllScreens.4962698e.jpg",
+    "static/media/AllUsers.140d5517.jpg": "/progress/static/media/AllUsers.140d5517.jpg",
+    "static/media/CreateButton.ccc1f5f4.jpg": "/progress/static/media/CreateButton.ccc1f5f4.jpg",
+    "static/media/CreateScreen.b465fe18.jpg": "/progress/static/media/CreateScreen.b465fe18.jpg",
+    "static/media/CreateUser.3a0d52aa.jpg": "/progress/static/media/CreateUser.3a0d52aa.jpg",
+    "static/media/EditScreen.5d885ec7.jpg": "/progress/static/media/EditScreen.5d885ec7.jpg",
+    "static/media/EditUser.8f52839d.jpg": "/progress/static/media/EditUser.8f52839d.jpg",
+    "static/media/LoginPage.46e88541.jpg": "/progress/static/media/LoginPage.46e88541.jpg",
+    "static/media/LoginWithGoogle.371dce5f.jpg": "/progress/static/media/LoginWithGoogle.371dce5f.jpg",
+    "static/media/PwdReset.3ac39229.jpg": "/progress/static/media/PwdReset.3ac39229.jpg",
+    "static/media/Register.0c76f400.jpg": "/progress/static/media/Register.0c76f400.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c45aa97.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.f7c14176.chunk.js",
+    "static/css/main.f97c94a7.chunk.css",
+    "static/js/main.0a23758e.chunk.js"
+  ]
+}
